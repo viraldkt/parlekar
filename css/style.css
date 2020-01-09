@@ -707,6 +707,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: black;
 }
 
+#about-us-p {
+  height: 350px;
+  overflow: auto;
+}
+
 /*--------------------------------------------------------------
 # Pictures Section
 --------------------------------------------------------------*/
