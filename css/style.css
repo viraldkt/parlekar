@@ -480,7 +480,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #intro {
   width: 100%;
   height: 100vh;
-  background-image: url("../15-aug-03.jpeg");
+  background-image: url("../background.jpeg");
   background-position: center;
   background-size: cover;
   overflow: hidden;
@@ -789,6 +789,10 @@ body.mobile-nav-active #mobile-nav-toggle {
 #pictures .venue-gallery:hover img {
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
+}
+
+#venue {
+  margin-top: 25px;
 }
 
 /*--------------------------------------------------------------
